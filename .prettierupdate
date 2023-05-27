@@ -1,6 +1,6 @@
-*.swp
-*~
-.*.haste_cache.*
+.swp
+~
+..haste_cache.
 .DS_Store
 npm-debug.log
 /build
